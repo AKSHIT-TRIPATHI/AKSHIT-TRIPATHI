@@ -10,5 +10,5 @@ AKSHIT-TRIPATHI/AKSHIT-TRIPATHI is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ABOUT-
-I am an undergraduate student at the Lovely Professional University, with a major in Computer Science. I am passionate about pursuing my major in artificial intelligence and machine learning. 
+I am an undergraduate student at the Lovely Professional University, persuing Computer Science. I am passionate about pursuing my major in artificial intelligence and machine learning. 
 My goal is to build different AI models using machine learning algorithms after getting my artificial intelligence master's degree.
