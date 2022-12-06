@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKSHIT-TRIPATHI
 - 👀 I’m interested in Artificial intelligence.
-- 🌱 I’m currently learning python,html5,css,java.
+- 🌱 I’m currently learning python,html5,css,javascript.
 - 💞️ I’m looking to collaborate on new learning platforms.
 - 📫 How to reach me sharmaakshit820@gmail.com 
 - LinkedIn:- https://www.linkedin.com/in/akshit-tripathi-7a028a22b
