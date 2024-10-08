@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AKSHIT-TRIPATHI
 - 👀 I’m interested in Artificial intelligence.
-- 🌱 I’m currently learning python, html5, css, javascript.
-- 💞️ I’m looking to collaborate on new learning platforms.
+- 🌱 I’m currently learning C++, html5, css, javascript, php, React js.
+- 🤝 I’m looking to collaborate on new learning platforms.
 - 📫 How to reach me sharmaakshit820@gmail.com 
-- LinkedIn:- https://www.linkedin.com/in/akshit-tripathi-7a028a22b
+- LinkedIn:- www.linkedin.com/in/akshittri49
 
 <!---
 AKSHIT-TRIPATHI/AKSHIT-TRIPATHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
