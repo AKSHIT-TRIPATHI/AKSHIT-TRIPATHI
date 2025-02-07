@@ -10,5 +10,5 @@ AKSHIT-TRIPATHI/AKSHIT-TRIPATHI is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ABOUT-
-I am an undergraduate student at the Lovely Professional University, persuing Computer Science. I am passionate about pursuing my minor in full stack web development.
+I am an undergraduate student at the Lovely Professional University, persuing Computer Science. Currently pursuing my core in full stack web development.
 
