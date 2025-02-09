@@ -4,6 +4,7 @@
 - 🤝 I’m looking to collaborate on new learning platforms.
 - 📫 How to reach me sharmaakshit820@gmail.com 
 - LinkedIn:- www.linkedin.com/in/akshittri49
+- Portfolio:- https://akshit-tripathi.github.io/Dynamic-web-portfolio./
 
 <!---
 AKSHIT-TRIPATHI/AKSHIT-TRIPATHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
